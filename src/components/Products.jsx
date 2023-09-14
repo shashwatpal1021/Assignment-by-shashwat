@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Slider from "react-slick";
 import "../Styles/products.css";
 import SinglePage from "./SinglePage";
+import "../Styles/singlepage.css"
 
 function Products() {
   const [data, setData] = useState([]);
@@ -28,12 +29,13 @@ function Products() {
     infinite: false,
     speed: 1000,
     arrows: true,
-    slidesToShow: 3.3,
+    slidesToShow: 3,
     slidesToScroll: 4,
+    
 
     responsive: [
       {
-        breakpoint: 1024,
+        breakpoint: 720,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
@@ -42,7 +44,7 @@ function Products() {
       {
         breakpoint: 560,
         settings: {
-          slidesToShow: 1.2,
+          slidesToShow: 1,
           slidesToScroll: 2,
         },
       },
@@ -91,7 +93,7 @@ function Products() {
                 ? data.map((product) => {
                   return (
                     <>
-                      <div className="col-md-10 mb-2 far fa-sliders-v">
+                      <div className="col-md-10 mb-2 far fa-sliders-v singlepage">
                         <div
                           className="card h-80 text-center p-5 b-50 "
                           key={product.id}
