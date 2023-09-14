@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Assignment-by-shashwat/static/css/main.8859bbc8.css",
+    "main.js": "/Assignment-by-shashwat/static/js/main.0a576021.js",
+    "static/js/787.99088daf.chunk.js": "/Assignment-by-shashwat/static/js/787.99088daf.chunk.js",
+    "static/media/boy.svg": "/Assignment-by-shashwat/static/media/boy.ed82997ef6d83b46076000bae7842ea9.svg",
+    "static/media/bgi.svg": "/Assignment-by-shashwat/static/media/bgi.74298f220a92fa80bb5a.svg",
+    "static/media/Syne-ExtraBold.ttf": "/Assignment-by-shashwat/static/media/Syne-ExtraBold.ec26051cf662d73d9c4d.ttf",
+    "static/media/car.svg": "/Assignment-by-shashwat/static/media/car.fe21a9c0285a02a6258b93e3e37117f4.svg",
+    "static/media/logo.svg": "/Assignment-by-shashwat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/insta.svg": "/Assignment-by-shashwat/static/media/insta.9dc97022a483d8abbeefbc1bc1245db7.svg",
+    "static/media/slick.svg": "/Assignment-by-shashwat/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Assignment-by-shashwat/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Assignment-by-shashwat/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/star.svg": "/Assignment-by-shashwat/static/media/star.3b4b3c7e2128fc04c6459460b49894a0.svg",
+    "static/media/slick.woff": "/Assignment-by-shashwat/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/linkedIn.svg": "/Assignment-by-shashwat/static/media/linkedIn.0d39236bce38f18076034ae3f2204d3d.svg",
+    "static/media/tw.svg": "/Assignment-by-shashwat/static/media/tw.edc609125b0816944ae3b738bc15d94c.svg",
+    "index.html": "/Assignment-by-shashwat/index.html",
+    "static/media/facebook.svg": "/Assignment-by-shashwat/static/media/facebook.36d756a6a4548d8ad11123cf2306a859.svg",
+    "static/media/starone.svg": "/Assignment-by-shashwat/static/media/starone.01f85a453831379688e7a452bc89f898.svg",
+    "main.8859bbc8.css.map": "/Assignment-by-shashwat/static/css/main.8859bbc8.css.map",
+    "main.0a576021.js.map": "/Assignment-by-shashwat/static/js/main.0a576021.js.map",
+    "787.99088daf.chunk.js.map": "/Assignment-by-shashwat/static/js/787.99088daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8859bbc8.css",
+    "static/js/main.0a576021.js"
+  ]
+}
