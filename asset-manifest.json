@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Assignment-by-shashwat/static/css/main.8859bbc8.css",
-    "main.js": "/Assignment-by-shashwat/static/js/main.9bc25554.js",
-    "static/js/787.573ea6bb.chunk.js": "/Assignment-by-shashwat/static/js/787.573ea6bb.chunk.js",
+    "main.js": "/Assignment-by-shashwat/static/js/main.3984fb35.js",
+    "static/js/787.8e53c71b.chunk.js": "/Assignment-by-shashwat/static/js/787.8e53c71b.chunk.js",
     "static/media/boy.svg": "/Assignment-by-shashwat/static/media/boy.ed82997ef6d83b46076000bae7842ea9.svg",
     "static/media/bgi.svg": "/Assignment-by-shashwat/static/media/bgi.74298f220a92fa80bb5a.svg",
     "static/media/Syne-ExtraBold.ttf": "/Assignment-by-shashwat/static/media/Syne-ExtraBold.ec26051cf662d73d9c4d.ttf",
@@ -20,11 +20,11 @@
     "static/media/facebook.svg": "/Assignment-by-shashwat/static/media/facebook.36d756a6a4548d8ad11123cf2306a859.svg",
     "static/media/starone.svg": "/Assignment-by-shashwat/static/media/starone.01f85a453831379688e7a452bc89f898.svg",
     "main.8859bbc8.css.map": "/Assignment-by-shashwat/static/css/main.8859bbc8.css.map",
-    "main.9bc25554.js.map": "/Assignment-by-shashwat/static/js/main.9bc25554.js.map",
-    "787.573ea6bb.chunk.js.map": "/Assignment-by-shashwat/static/js/787.573ea6bb.chunk.js.map"
+    "main.3984fb35.js.map": "/Assignment-by-shashwat/static/js/main.3984fb35.js.map",
+    "787.8e53c71b.chunk.js.map": "/Assignment-by-shashwat/static/js/787.8e53c71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8859bbc8.css",
-    "static/js/main.9bc25554.js"
+    "static/js/main.3984fb35.js"
   ]
 }
